@@ -1,0 +1,3 @@
+Sergio Omar Flores García [A01285193] - Parte 1 (Busqueda codigo malicioso)
+Axel Eduardo Iparrea Ramos [A00836682] - Parte 2 (Palindromos)
+Adrián Esquivel Castro [A00837671] - Parte 3 (Substring en común)
